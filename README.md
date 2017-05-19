@@ -1,5 +1,6 @@
 # CPTR-128-Tic-Tac-Toe
-Python program for playing Tic-Tac-Toe.
+Python program for playing Tic-Tac-Toe
+
 
 tttlogic.py- Backend logic for Tic-Tac-Toe
 
