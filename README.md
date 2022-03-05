@@ -1,4 +1,4 @@
-# CPTR-128-Tic-Tac-Toe
+# CPTR-124-Tic-Tac-Toe
 Python program for playing Tic-Tac-Toe
 
 
